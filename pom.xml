@@ -8,5 +8,12 @@
     <artifactId>Testing</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <dependencies>
+    <dependency>
+        <groupId>org.jmockit</groupId>
+        <artifactId>jmockit</artifactId>
+        <version>1.47</version>
+        <scope>test</scope>
+    </dependency>
+        </dependencies>
 </project>
